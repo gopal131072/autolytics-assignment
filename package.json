@@ -1,0 +1,17 @@
+{
+  "name": "autolytics",
+  "version": "0.0.1",
+  "description": "A script to pull data from a sample api and dump it in a configured database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gopal Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bluebird": "^3.5.5",
+    "dotenv": "^8.1.0",
+    "pg-promise": "^9.1.1"
+  }
+}
