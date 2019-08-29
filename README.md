@@ -1,5 +1,5 @@
-# Autolytics assignment
-Autolytics assignment solution.
+# Marsplay assignment 
+Marsplay assignment solution
 
 ## Steps
 - Clone the repo
